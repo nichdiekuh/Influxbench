@@ -1,18 +1,16 @@
 {
-  "name": "mongo2influx",
+  "name": "Influxbench",
   "version": "0.0.1",
-  "description": "Migrates timeseries data from mongodb to influxdb",
+  "description": "Generates tons of random data",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nichdiekuh/node-mongo2influx.git"
+    "url": "https://github.com/nichdiekuh/Influxbench.git"
   },
   "keywords": [
     "mongodb",
     "influx",
     "influxdb",
-    "convert",
-    "migration",
     "time",
     "series",
     "client",
@@ -29,9 +27,9 @@
   },
   "devDependencies": {},
   "bugs": {
-    "url": "https://github.com/nichdiekuh/node-mongo2influx/issues"
+    "url": "https://github.com/nichdiekuh/Influxbench/issues"
   },
-  "homepage": "https://github.com/nichdiekuh/node-mongo2influx",
+  "homepage": "https://github.com/nichdiekuh/Influxbench",
   "directories": {
     "example": "examples"
   },
