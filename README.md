@@ -20,7 +20,8 @@ writeTimeout | 100 | sets a timeout after each successful request to give influx
 While the process is running you can adjust the insertLimit and writeTimeout using your keyboard:
 
 Keys w/s increase/decrease the insertlimit by 100
-Keys e/d increase/decrease the writeTimeout by 100ms
+
+Keys e/d increase/decrease the writeTimeout by 10ms
 
 License: MIT
 Copyright: Steffen Konerow
